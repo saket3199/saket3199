@@ -2,8 +2,8 @@
 
 ### About Me
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android Projects
+- 🌱 I’m currently learning Android, Angular,Golang, Docker, Kubernetes
+- 💞️ I’m looking to collaborate on Open source Projects
 - 📫 You can reach to me on saketmishra247@gmail.com
 
 ### What do i do for fun?
